@@ -7,8 +7,7 @@ Considering privacy protection, we don't share our annotated corpus anymore.
 
 
 Notes:
-1. the pytorch model file is saved in .\result\save_model\Bert
-2. the demo data is save in .\data\data_BIES\Demo_data.json
+1. the demo data is save in .\data\data_BIES\Demo_data.json
 
 citation:
 @article{he2021construction,
